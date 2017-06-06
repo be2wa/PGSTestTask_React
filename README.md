@@ -1,2 +1,2 @@
-# PGSTestTask_React
-PGS Test Task React
+# PGS Test Task
+PGS Test Task
